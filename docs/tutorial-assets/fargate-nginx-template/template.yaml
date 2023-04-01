@@ -94,8 +94,8 @@ spec:
         serviceSpecPath: ./spec.yaml
         # Update the following fields to match the resources in your AWS account
         region: us-east-1
-        templateName: load-balanced-fargate-svc
-        templateMajorVersion: '1.0'
+        templateName: icici-poc-ayushi-test-serviec-template-1
+        templateMajorVersion: '1'
         repositoryConnectionArn: 'arn:aws:codestar-connections:us-east-2:289955253311:connection/ee2d8e74-600c-4e8d-b46c-331a0128ef7d'
 
     - id: register
