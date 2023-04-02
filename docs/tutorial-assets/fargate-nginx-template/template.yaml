@@ -11,6 +11,7 @@ metadata:
 spec:
   owner: service@example.com
   type: service
+  environment: dev
 
   parameters:
     - title: Provide some simple information
